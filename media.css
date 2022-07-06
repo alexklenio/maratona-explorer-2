@@ -22,9 +22,9 @@ input{
 }
 
 img{
-    display: 30px;
+    margin-top: 20px;
+    width: 150px
 }
 ul{
     text-align: center;
-}
 }
